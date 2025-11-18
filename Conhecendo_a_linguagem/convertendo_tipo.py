@@ -1,3 +1,6 @@
+# Convertendo tipos em Python
+# int(), float(), str()
+# Converte valores entre tipos diferentes
 print(int(1.97784914))
 print(int("10"))
 print(float("1.97784914"))
